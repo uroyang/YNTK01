@@ -1,4 +1,4 @@
-ADD: https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/index.min.json
+ADD: https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/index.min.json
 
 
 All fixed. Please update your extension.

@@ -11,7 +11,7 @@
       "name": "NTK",
       "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/apk/tachiyomi-ko.ntk-v1.4.4-release.apk",
+        "apkUrl": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/apk/tachiyomi-ko.ntk-v1.4.4-release.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
       },
       "extensionLib": "1.4",
