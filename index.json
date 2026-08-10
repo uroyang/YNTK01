@@ -1,6 +1,6 @@
 {
-  "name": "YNTK & YWOLF Repository",
-  "badgeLabel": "YNTK / YWOLF",
+  "name": "YNTK Repository",
+  "badgeLabel": "YNTK & YWOLF",
   "signingKey": "0b22119f3f5c2c89fc5da0291903a65f1d61005ec7d63e9ffbcfcd4c8023864a",
   "contact": {
     "website": "https://github.com/uroyang/YNTK01"
@@ -37,10 +37,10 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_MIXED",
+        "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "7766554433221100998",
+            "id": "8899001122334455668",
             "name": "YWOLF",
             "language": "ko",
             "homeUrl": "https://wfwf436.com"
@@ -80,10 +80,10 @@
       "extensionLib": "1.4",
       "versionCode": "1",
       "versionName": "1.4.1",
-      "contentWarning": "CONTENT_WARNING_MIXED",
+      "contentWarning": "CONTENT_WARNING_NSFW",
       "sources": [
         {
-          "id": "7766554433221100998",
+          "id": "8899001122334455668",
           "name": "YWOLF",
           "language": "ko",
           "homeUrl": "https://wfwf436.com"
