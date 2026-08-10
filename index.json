@@ -11,12 +11,12 @@
         "name": "YNTK",
         "packageName": "eu.kanade.tachiyomi.extension.ko.yntk",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/uroyang/YNTK01/main/apk/tachiyomi-ko.yntk-v1.4.5.apk",
+          "apkUrl": "https://raw.githubusercontent.com/uroyang/YNTK01/main/apk/tachiyomi-ko.yntk-v1.4.6.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "5",
-        "versionName": "1.4.5",
+        "versionCode": "6",
+        "versionName": "1.4.6",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -34,12 +34,12 @@
       "name": "YNTK",
       "packageName": "eu.kanade.tachiyomi.extension.ko.yntk",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/uroyang/YNTK01/main/apk/tachiyomi-ko.yntk-v1.4.5.apk",
+        "apkUrl": "https://raw.githubusercontent.com/uroyang/YNTK01/main/apk/tachiyomi-ko.yntk-v1.4.6.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
       },
       "extensionLib": "1.4",
-      "versionCode": "5",
-      "versionName": "1.4.5",
+      "versionCode": "6",
+      "versionName": "1.4.6",
       "contentWarning": "CONTENT_WARNING_NSFW",
       "sources": [
         {
