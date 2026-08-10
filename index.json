@@ -40,10 +40,10 @@
   {
     "name": "YBlackToon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yblacktoon",
-    "apk": "tachiyomi-ko.yblacktoon-v1.4.3.apk",
+    "apk": "tachiyomi-ko.yblacktoon-v1.4.4.apk",
     "lang": "ko",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.yblacktoon.png",
@@ -59,10 +59,10 @@
   {
     "name": "YToonkor",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ytoonkor",
-    "apk": "tachiyomi-ko.ytoonkor-v1.4.9.apk",
+    "apk": "tachiyomi-ko.ytoonkor-v1.4.10.apk",
     "lang": "ko",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ytoonkor.png",
@@ -71,7 +71,7 @@
         "name": "YToonkor",
         "lang": "ko",
         "id": "8899001122334455669",
-        "baseUrl": "https://toonkor.com"
+        "baseUrl": "https://tkor142.com"
       }
     ]
   }
