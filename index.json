@@ -5,24 +5,48 @@
   "contact": {
     "website": "https://github.com/uroyang/YNTK01"
   },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "YNTK",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.yntk",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/uroyang/YNTK01/main/apk/tachiyomi-ko.yntk-v1.4.1-release.apk",
+          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "8899001122334455667",
+            "name": "YNTK",
+            "language": "ko",
+            "homeUrl": "https://newtoki1.org/webtoon"
+          }
+        ]
+      }
+    ]
+  },
   "extensions": [
     {
       "name": "YNTK",
       "packageName": "eu.kanade.tachiyomi.extension.ko.yntk",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/apk/tachiyomi-ko.yntk-v1.4.1-release.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
+        "apkUrl": "https://raw.githubusercontent.com/uroyang/YNTK01/main/apk/tachiyomi-ko.yntk-v1.4.1-release.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 1,
+      "versionCode": "1",
       "versionName": "1.4.1",
+      "contentWarning": "CONTENT_WARNING_NSFW",
       "sources": [
         {
           "id": "8899001122334455667",
           "name": "YNTK",
           "language": "ko",
-          "homeUrl": "https://newtoki1.org/webtoon",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+          "homeUrl": "https://newtoki1.org/webtoon"
         }
       ]
     }
