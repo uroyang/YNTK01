@@ -21,10 +21,10 @@
   {
     "name": "YWOLF",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ywolf",
-    "apk": "tachiyomi-ko.ywolf-v1.4.7.apk",
+    "apk": "tachiyomi-ko.ywolf-v1.4.8.apk",
     "lang": "ko",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ywolf.png",
@@ -33,7 +33,7 @@
         "name": "YWOLF",
         "lang": "ko",
         "id": "8899001122334455668",
-        "baseUrl": "https://wfwf436.com"
+        "baseUrl": "https://wfwf437.com"
       }
     ]
   },
