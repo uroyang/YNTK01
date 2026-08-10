@@ -1,7 +1,7 @@
 {
   "meta": {
-    "name": "NTK Repo",
-    "website": "https://rustedimac.github.io/ntk-mihon-extension",
-    "signingKeyFingerprint": "416a4632b26e5114fe4a59564e28dba86d62feb6f8095361be4d391f42290177"
+    "name": "YNTK Repository",
+    "website": "https://github.com/uroyang/YNTK01",
+    "signingKeyFingerprint": "0b22119f3f5c2c89fc5da0291903a65f1d61005ec7d63e9ffbcfcd4c8023864a"
   }
 }
