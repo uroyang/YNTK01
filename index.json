@@ -1,5 +1,24 @@
 [
   {
+    "name": "11toon",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.toon11",
+    "apk": "tachiyomi-ko.toon11-v1.4.2.apk",
+    "lang": "ko",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.toon11.png",
+    "sources": [
+      {
+        "name": "11toon",
+        "lang": "ko",
+        "id": "8899001122334455671",
+        "baseUrl": "https://www.11toon.com"
+      }
+    ]
+  },
+  {
     "name": "YJJAPTOON",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yjjaptoon",
     "apk": "tachiyomi-ko.yjjaptoon-v1.4.2.apk",
