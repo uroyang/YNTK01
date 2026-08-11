@@ -1,5 +1,24 @@
 [
   {
+    "name": "YJJAPTOON",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.yjjaptoon",
+    "apk": "tachiyomi-ko.yjjaptoon-v1.4.1.apk",
+    "lang": "ko",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ywolf.png",
+    "sources": [
+      {
+        "name": "YJJAPTOON",
+        "lang": "ko",
+        "id": "8899001122334455670",
+        "baseUrl": "https://www.jjaptoon005.com"
+      }
+    ]
+  },
+  {
     "name": "YNTK",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yntk",
     "apk": "tachiyomi-ko.yntk-v1.4.14.apk",
