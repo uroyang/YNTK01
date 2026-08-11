@@ -21,10 +21,10 @@
   {
     "name": "YWOLF",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ywolf",
-    "apk": "tachiyomi-ko.ywolf-v1.4.9.apk",
+    "apk": "tachiyomi-ko.ywolf-v1.4.10.apk",
     "lang": "ko",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ywolf.png",
