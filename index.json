@@ -59,10 +59,10 @@
   {
     "name": "YWOLF",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ywolf",
-    "apk": "tachiyomi-ko.ywolf-v1.4.37.apk",
+    "apk": "tachiyomi-ko.ywolf-v1.4.38.apk",
     "lang": "ko",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ywolf.png",
@@ -71,17 +71,17 @@
         "name": "YWOLF",
         "lang": "ko",
         "id": "8899001122334455668",
-        "baseUrl": "https://wfwf438.com"
+        "baseUrl": "https://wfwf480.com"
       }
     ]
   },
   {
     "name": "YBlackToon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yblacktoon",
-    "apk": "tachiyomi-ko.yblacktoon-v1.4.37.apk",
+    "apk": "tachiyomi-ko.yblacktoon-v1.4.38.apk",
     "lang": "ko",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.yblacktoon.png",
@@ -90,7 +90,7 @@
         "name": "YBlackToon",
         "lang": "ko",
         "id": "6289731484943315812",
-        "baseUrl": "https://blacktoon418.com"
+        "baseUrl": "https://blacktoon419.com"
       }
     ]
   },
