@@ -68,10 +68,29 @@
     "icon": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png",
     "sources": [
       {
-        "name": "YNTK",
+        "name": "YNTK (웹툰)",
         "lang": "ko",
         "id": "8899001122334455667",
         "baseUrl": "https://newtoki1.org/webtoon"
+      }
+    ]
+  },
+  {
+    "name": "YNTK (소설)",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.yntknovel",
+    "apk": "tachiyomi-ko.yntknovel-v1.4.1.apk",
+    "lang": "ko",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.yntknovel.png",
+    "sources": [
+      {
+        "name": "YNTK (소설)",
+        "lang": "ko",
+        "id": "8899001122334455666",
+        "baseUrl": "https://newtoki1.org/novel"
       }
     ]
   },
