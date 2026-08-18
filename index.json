@@ -78,10 +78,10 @@
   {
     "name": "YNTK (소설)",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yntknovel",
-    "apk": "tachiyomi-ko.yntknovel-v1.4.6.apk",
+    "apk": "tachiyomi-ko.yntknovel-v1.4.7.apk",
     "lang": "ko",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.yntknovel.png",
