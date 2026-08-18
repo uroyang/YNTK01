@@ -52,7 +52,7 @@
         "name": "YJJAPTOON",
         "lang": "ko",
         "id": "8899001122334455670",
-        "baseUrl": "https://www.jjaptoon005.com"
+        "baseUrl": "https://www.jjaptoon006.com"
       }
     ]
   },
@@ -118,8 +118,8 @@
     "pkg": "eu.kanade.tachiyomi.extension.ko.ytoonkor",
     "apk": "tachiyomi-ko.ytoonkor-v1.4.31.apk",
     "lang": "ko",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ytoonkor.png",
