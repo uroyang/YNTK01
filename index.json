@@ -1,5 +1,36 @@
 [
   {
+    "name": "Naver Comic",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.navercomic",
+    "apk": "tachiyomi-ko.navercomic-v1.4.9.apk",
+    "lang": "ko",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.navercomic.png",
+    "sources": [
+      {
+        "name": "Naver Webtoon",
+        "lang": "ko",
+        "id": "1311262507446028482",
+        "baseUrl": "https://comic.naver.com"
+      },
+      {
+        "name": "Naver Webtoon Best Challenge",
+        "lang": "ko",
+        "id": "3983114856627782141",
+        "baseUrl": "https://comic.naver.com"
+      },
+      {
+        "name": "Naver Webtoon Challenge",
+        "lang": "ko",
+        "id": "4487676425355815867",
+        "baseUrl": "https://comic.naver.com"
+      }
+    ]
+  },
+  {
     "name": "11toon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.toon11",
     "apk": "tachiyomi-ko.toon11-v1.4.30.apk",
