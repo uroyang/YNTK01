@@ -5,57 +5,119 @@ on:
     - cron: '0 */6 * * *'  # 6시간마다 실행
   workflow_dispatch:        # 수동 실행 허용
 
+permissions:
+  contents: write  # git push 권한 부여
+
 jobs:
   check-domains:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
       - name: Check and Update Live Domains
         run: |
-          python -c "
-          import json, urllib.request, ssl
+          python << 'SCRIPT'
+          import json, urllib.request, ssl, re
 
+          # SSL 인증서 검증 비활성화 (차단 사이트 특성상 필요)
           ctx = ssl.create_default_context()
           ctx.check_hostname = False
           ctx.verify_mode = ssl.CERT_NONE
-          headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+          headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
 
-          def find_live_domain(prefix, start, end, suffix='.com'):
-              for i in range(start, end+1):
+          def check_url(url):
+              """URL이 실제로 접속 가능한 사이트인지 확인 (클라우드플레어 차단 페이지 구분 포함)"""
+              try:
+                  req = urllib.request.Request(url, headers=headers)
+                  res = urllib.request.urlopen(req, context=ctx, timeout=5)
+                  body = res.read(2048).decode('utf-8', errors='ignore')
+                  # 클라우드플레어 차단 페이지가 아니고, 실제 콘텐츠가 있는지 확인
+                  if res.getcode() == 200 and len(body) > 100:
+                      return True
+              except Exception:
+                  pass
+              return False
+
+          def find_live_numbered_domain(prefix, current_num, search_range=20, suffix='.com'):
+              """번호가 붙는 도메인의 최신 활성 번호를 탐색"""
+              # 현재 번호부터 위로 탐색 (차단되면 번호가 올라가니까)
+              for i in range(current_num, current_num + search_range + 1):
                   url = f'https://{prefix}{i}{suffix}'
-                  try:
-                      req = urllib.request.Request(url, headers=headers)
-                      res = urllib.request.urlopen(req, context=ctx, timeout=3)
-                      if res.getcode() == 200:
-                          print(f'Live domain found: {url}')
-                          return url
-                  except Exception:
-                      pass
+                  if check_url(url):
+                      print(f'  ✅ Live: {url}')
+                      return url
+                  else:
+                      print(f'  ❌ Dead: {url}')
               return None
 
+          # 기존 domains.json 읽기
           with open('domains.json', 'r', encoding='utf-8') as f:
               domains = json.load(f)
 
-          # Check YWOLF (wfwf)
-          live_ywolf = find_live_domain('wfwf', 480, 500)
-          if live_ywolf:
-              domains['ywolf'] = live_ywolf
+          changed = False
 
-          # Check YJJAPTOON (jjaptoon)
-          live_jjap = find_live_domain('www.jjaptoon', 6, 20)
-          if live_jjap:
-              domains['yjjaptoon'] = live_jjap
+          # --- YWOLF (늑대닷컴): wfwf{N}.com ---
+          print('\n🐺 Checking YWOLF (wfwf)...')
+          current = domains.get('ywolf', 'https://wfwf481.com')
+          m = re.search(r'wfwf(\d+)', current)
+          current_num = int(m.group(1)) if m else 481
+          live = find_live_numbered_domain('wfwf', current_num)
+          if live and live != current:
+              domains['ywolf'] = live
+              changed = True
+              print(f'  🔄 Updated: {current} → {live}')
 
-          with open('domains.json', 'w', encoding='utf-8') as f:
-              json.dump(domains, f, indent=2, ensure_ascii=False)
-          "
+          # --- YJJAPTOON (짭툰): www.jjaptoon{N}.com ---
+          print('\n🟢 Checking YJJAPTOON (jjaptoon)...')
+          current = domains.get('yjjaptoon', 'https://www.jjaptoon006.com')
+          m = re.search(r'jjaptoon0*(\d+)', current)
+          current_num = int(m.group(1)) if m else 6
+          live = find_live_numbered_domain('www.jjaptoon0', current_num, suffix='.com')
+          if live and live != current:
+              domains['yjjaptoon'] = live
+              changed = True
+              print(f'  🔄 Updated: {current} → {live}')
+
+          # --- YBlackToon (블랙툰): blacktoon{N}.com ---
+          print('\n⬛ Checking YBlackToon (blacktoon)...')
+          current = domains.get('yblacktoon', 'https://blacktoon419.com')
+          m = re.search(r'blacktoon(\d+)', current)
+          current_num = int(m.group(1)) if m else 419
+          live = find_live_numbered_domain('blacktoon', current_num)
+          if live and live != current:
+              domains['yblacktoon'] = live
+              changed = True
+              print(f'  🔄 Updated: {current} → {live}')
+
+          # --- YToonkor (툰코어): 고정 도메인이므로 접속 가능 여부만 확인 ---
+          print('\n🔴 Checking YToonkor (toonkor.com)...')
+          current = domains.get('ytoonkor', 'https://toonkor.com')
+          if check_url(current):
+              print(f'  ✅ OK: {current}')
+          else:
+              print(f'  ⚠️ UNREACHABLE: {current} — manual update required')
+
+          # --- YNTK (뉴토끼): 고정 도메인이므로 접속 가능 여부만 확인 ---
+          print('\n📘 Checking YNTK (newtoki)...')
+          current_ntk = domains.get('yntk', 'https://newtoki1.org')
+          if check_url(current_ntk):
+              print(f'  ✅ OK: {current_ntk}')
+          else:
+              print(f'  ⚠️ UNREACHABLE: {current_ntk} — manual update required')
+
+          if changed:
+              with open('domains.json', 'w', encoding='utf-8') as f:
+                  json.dump(domains, f, indent=2, ensure_ascii=False)
+              print('\n✅ domains.json updated!')
+          else:
+              print('\n✅ No domain changes detected.')
+          SCRIPT
 
       - name: Commit and Push changes
         run: |
