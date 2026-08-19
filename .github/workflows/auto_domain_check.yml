@@ -1,0 +1,65 @@
+name: Auto Domain Checker
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 6시간마다 실행
+  workflow_dispatch:        # 수동 실행 허용
+
+jobs:
+  check-domains:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Check and Update Live Domains
+        run: |
+          python -c "
+          import json, urllib.request, ssl
+
+          ctx = ssl.create_default_context()
+          ctx.check_hostname = False
+          ctx.verify_mode = ssl.CERT_NONE
+          headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+
+          def find_live_domain(prefix, start, end, suffix='.com'):
+              for i in range(start, end+1):
+                  url = f'https://{prefix}{i}{suffix}'
+                  try:
+                      req = urllib.request.Request(url, headers=headers)
+                      res = urllib.request.urlopen(req, context=ctx, timeout=3)
+                      if res.getcode() == 200:
+                          print(f'Live domain found: {url}')
+                          return url
+                  except Exception:
+                      pass
+              return None
+
+          with open('domains.json', 'r', encoding='utf-8') as f:
+              domains = json.load(f)
+
+          # Check YWOLF (wfwf)
+          live_ywolf = find_live_domain('wfwf', 480, 500)
+          if live_ywolf:
+              domains['ywolf'] = live_ywolf
+
+          # Check YJJAPTOON (jjaptoon)
+          live_jjap = find_live_domain('www.jjaptoon', 6, 20)
+          if live_jjap:
+              domains['yjjaptoon'] = live_jjap
+
+          with open('domains.json', 'w', encoding='utf-8') as f:
+              json.dump(domains, f, indent=2, ensure_ascii=False)
+          "
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add domains.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update live domains in domains.json" && git push)
