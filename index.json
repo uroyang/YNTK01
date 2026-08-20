@@ -2,10 +2,10 @@
   {
     "name": "Naver Webtoon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.navercomic",
-    "apk": "tachiyomi-ko.navercomic-v1.4.16.apk",
+    "apk": "tachiyomi-ko.navercomic-v1.4.17.apk",
     "lang": "ko",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "icon/eu.kanade.tachiyomi.extension.ko.navercomic.png",
@@ -17,17 +17,17 @@
         "baseUrl": "https://comic.naver.com"
       }
     ],
-    "sha256": "2a94e7c9c3089c5b89905beb8c9b09cc4eb75fa429e699b38b7f9cce197f47b7",
-    "size": 218173,
-    "versionCode": 16
+    "sha256": "2409eb1bd55b0cf0c8210a0db1ff02fac4365d3dd5d53e0f763e5aaaebb9dc28",
+    "size": 218169,
+    "versionCode": 17
   },
   {
     "name": "11toon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.toon11",
-    "apk": "tachiyomi-ko.toon11-v1.4.44.apk",
+    "apk": "tachiyomi-ko.toon11-v1.4.45.apk",
     "lang": "ko",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "icon/eu.kanade.tachiyomi.extension.ko.toon11.png",
@@ -39,17 +39,17 @@
         "baseUrl": "https://www.11toon.com"
       }
     ],
-    "sha256": "141a73d8f1e153ed5a6c087a48559154221922f89387ccc251ce6fa1220cb040",
-    "size": 190321,
-    "versionCode": 44
+    "sha256": "2fedb74239adb9c4e9fb751c5c6a147c87a2d3d054b265b01ce39d059721d417",
+    "size": 190325,
+    "versionCode": 45
   },
   {
     "name": "YJJAPTOON",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yjjaptoon",
-    "apk": "tachiyomi-ko.yjjaptoon-v1.4.52.apk",
+    "apk": "tachiyomi-ko.yjjaptoon-v1.4.53.apk",
     "lang": "ko",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "icon/eu.kanade.tachiyomi.extension.ko.yjjaptoon.png",
@@ -61,17 +61,17 @@
         "baseUrl": "https://www.jjaptoon006.com"
       }
     ],
-    "sha256": "4b231fb0be754ed9cad821e2630f3498322517121aad4853df71302f6b2e91f9",
-    "size": 189485,
-    "versionCode": 52
+    "sha256": "fb19a1b3a0f578602cfd4b3a91fa56c2178de6dacf26b2f78226ac7a9b70cbf1",
+    "size": 221649,
+    "versionCode": 53
   },
   {
     "name": "YNTK",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yntk",
-    "apk": "tachiyomi-ko.yntk-v1.4.51.apk",
+    "apk": "tachiyomi-ko.yntk-v1.4.52.apk",
     "lang": "ko",
-    "code": 51,
-    "version": "1.4.51",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "icon/eu.kanade.tachiyomi.extension.ko.yntk.png",
@@ -83,17 +83,17 @@
         "baseUrl": "https://newtoki1.org/webtoon"
       }
     ],
-    "sha256": "63427edc580f6229df3c4b7521de1697a60fe42b4eb9f3323401222675e4e27d",
-    "size": 175073,
-    "versionCode": 51
+    "sha256": "00003ebccb78787c88faa3c5846c6d0228e8667aef3e2e0bf29a33e475024d10",
+    "size": 207309,
+    "versionCode": 52
   },
   {
     "name": "YNTK (소설)",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yntknovel",
-    "apk": "tachiyomi-ko.yntknovel-v1.4.27.apk",
+    "apk": "tachiyomi-ko.yntknovel-v1.4.28.apk",
     "lang": "ko",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "icon/eu.kanade.tachiyomi.extension.ko.yntknovel.png",
@@ -105,17 +105,17 @@
         "baseUrl": "https://newtoki1.org/novel"
       }
     ],
-    "sha256": "b17372eef3291c78a5fdc7c312d6aba95a9d135c81c43c4270177e67bc093ab1",
-    "size": 175125,
-    "versionCode": 27
+    "sha256": "6bd9e9d7d5b0bcbd4f2695e238b842a2abb6d89d3c63f45d877340d6a0415c1d",
+    "size": 207357,
+    "versionCode": 28
   },
   {
     "name": "YWOLF",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ywolf",
-    "apk": "tachiyomi-ko.ywolf-v1.4.61.apk",
+    "apk": "tachiyomi-ko.ywolf-v1.4.62.apk",
     "lang": "ko",
-    "code": 61,
-    "version": "1.4.61",
+    "code": 62,
+    "version": "1.4.62",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "icon/eu.kanade.tachiyomi.extension.ko.ywolf.png",
@@ -127,17 +127,17 @@
         "baseUrl": "https://wfwf480.com"
       }
     ],
-    "sha256": "82fa6dcfb739424e7e8097b9d1e5ac1c92d996123537d843d35462e7c4dda778",
-    "size": 180703,
-    "versionCode": 61
+    "sha256": "f1b42014e403cff81bb748bea780b7836e77ee81430a5cb8ae3b5acce573f83e",
+    "size": 213347,
+    "versionCode": 62
   },
   {
     "name": "YBlackToon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yblacktoon",
-    "apk": "tachiyomi-ko.yblacktoon-v1.4.52.apk",
+    "apk": "tachiyomi-ko.yblacktoon-v1.4.53.apk",
     "lang": "ko",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "icon/eu.kanade.tachiyomi.extension.ko.yblacktoon.png",
@@ -149,17 +149,17 @@
         "baseUrl": "https://blacktoon419.com"
       }
     ],
-    "sha256": "e56995cdbe347dff9dc04f4ca87e77523e12c0bf588242ee581e207edc47a6ce",
-    "size": 189201,
-    "versionCode": 52
+    "sha256": "02f09ce452ac32b467e4004efead1cdd5021b8606a15d9469eb2de78a22e8ba2",
+    "size": 221365,
+    "versionCode": 53
   },
   {
     "name": "YToonkor",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ytoonkor",
-    "apk": "tachiyomi-ko.ytoonkor-v1.4.55.apk",
+    "apk": "tachiyomi-ko.ytoonkor-v1.4.56.apk",
     "lang": "ko",
-    "code": 55,
-    "version": "1.4.55",
+    "code": 56,
+    "version": "1.4.56",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "icon/eu.kanade.tachiyomi.extension.ko.ytoonkor.png",
@@ -171,8 +171,8 @@
         "baseUrl": "https://tkor145.com"
       }
     ],
-    "sha256": "0a37c9e2ba52dbb46a4d4186d15f6c9655aa02943ba634bc3bcf26c6a2be5ecd",
-    "size": 171581,
-    "versionCode": 55
+    "sha256": "770fbca270eb66576130f4d60c7cb8d7b85ff151ce693da0c5448dc350966d11",
+    "size": 203817,
+    "versionCode": 56
   }
 ]
