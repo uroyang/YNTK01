@@ -2,7 +2,7 @@
   {
     "name": "Naver Webtoon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.navercomic",
-    "apk": "tachiyomi-ko.navercomic-v1.4.11.apk",
+    "apk": "tachiyomi-ko.navercomic-v1.4.9.apk",
     "lang": "ko",
     "code": 11,
     "version": "1.4.11",
@@ -17,13 +17,13 @@
         "baseUrl": "https://comic.naver.com"
       }
     ],
-    "sha256": "d0a2f65094b0bd56114c02759100884d",
-    "size": 217257
+    "sha256": "750de7196a42073da92f89cc4ca4a91ede23b281ddf831cf6f0302e91e7ea735",
+    "size": 218033
   },
   {
     "name": "11toon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.toon11",
-    "apk": "tachiyomi-ko.toon11-v1.4.39.apk",
+    "apk": "tachiyomi-ko.toon11-v1.4.2.apk",
     "lang": "ko",
     "code": 39,
     "version": "1.4.39",
@@ -38,8 +38,8 @@
         "baseUrl": "https://www.11toon.com"
       }
     ],
-    "sha256": "fdf124f548f5b8df9b2a440a206d9521",
-    "size": 214459
+    "sha256": "1ef04a4dad96b5a10cc43e4d4a892a9a674a9b5584b58612cad979fd4548f647",
+    "size": 190021
   },
   {
     "name": "YJJAPTOON",
@@ -59,7 +59,7 @@
         "baseUrl": "https://www.jjaptoon006.com"
       }
     ],
-    "sha256": "58b0b6ba1039b76045019dad87540ccd",
+    "sha256": "d660401334a261cf08171531f23c761b4510bda5f598defe9d94e66584ef956f",
     "size": 189005
   },
   {
@@ -80,7 +80,7 @@
         "baseUrl": "https://newtoki1.org/webtoon"
       }
     ],
-    "sha256": "e35a3abdde71d89b2dd84a5d561dae5e",
+    "sha256": "67741f3d5b56ff8fdbf75666e71d1b32094fb32971a37641e602b920015a7aa1",
     "size": 174837
   },
   {
@@ -101,7 +101,7 @@
         "baseUrl": "https://newtoki1.org/novel"
       }
     ],
-    "sha256": "f210f5da371556024516be2906142788",
+    "sha256": "1721598e1541229abe6464e850893aca25b30237e13febab010d36aec01447b3",
     "size": 174881
   },
   {
@@ -122,7 +122,7 @@
         "baseUrl": "https://wfwf480.com"
       }
     ],
-    "sha256": "786c6aefe81a9314866b6c9a82c080a1",
+    "sha256": "6ed6d47eec3227c15f3286de8a1793fdacd77082578a30074ac17c4e9b18da97",
     "size": 180379
   },
   {
@@ -143,7 +143,7 @@
         "baseUrl": "https://blacktoon419.com"
       }
     ],
-    "sha256": "a51eb6361248f1797f8f31e17d266db6",
+    "sha256": "8fabd6470a8e4c3111c5777aa6e73f2145516d4f03dbf85f3d9dcdbeae5bce37",
     "size": 188897
   },
   {
@@ -164,7 +164,7 @@
         "baseUrl": "https://tkor145.com"
       }
     ],
-    "sha256": "41773f3a7b77698a7db63a6239fd267b",
+    "sha256": "aaf79c43c5e04c650eff29d4e3d9428316a0f3e238d809a87ecc806267e825e4",
     "size": 171273
   }
 ]
