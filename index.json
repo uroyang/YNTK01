@@ -8,7 +8,7 @@
     "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
-    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.navercomic.png",
+    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.navercomic.png",
     "sources": [
       {
         "name": "Naver Webtoon",
@@ -29,7 +29,7 @@
     "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
-    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.toon11.png",
+    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.toon11.png",
     "sources": [
       {
         "name": "11toon",
@@ -50,7 +50,7 @@
     "version": "1.4.47",
     "nsfw": 1,
     "hasReadme": 0,
-    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.yjjaptoon.png",
+    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yjjaptoon.png",
     "sources": [
       {
         "name": "YJJAPTOON",
@@ -71,7 +71,7 @@
     "version": "1.4.46",
     "nsfw": 1,
     "hasReadme": 0,
-    "icon": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png",
+    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yntk.png",
     "sources": [
       {
         "name": "YNTK (웹툰)",
@@ -80,7 +80,7 @@
         "baseUrl": "https://newtoki1.org/webtoon"
       }
     ],
-    "sha256": "fe97467dc60117af41aefdf23ec1311316da76b601cbf4c91de4f12c6dced95e",
+    "sha256": "c3984aa4b8319ad0d07929446251a5b25d5b47a3eb0b51ee9c05b0d0899043ad",
     "size": 189709
   },
   {
@@ -92,7 +92,7 @@
     "version": "1.4.22",
     "nsfw": 1,
     "hasReadme": 0,
-    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.yntknovel.png",
+    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yntknovel.png",
     "sources": [
       {
         "name": "YNTK (소설)",
@@ -101,8 +101,8 @@
         "baseUrl": "https://newtoki1.org/novel"
       }
     ],
-    "sha256": "0e53a39c7d36ce21b01e00517f6bb164bf2aeb007582a50306e263c56bffc5fd",
-    "size": 189788
+    "sha256": "ec8a941a6fc376be89256c80200c9c2cec20ee451d38407f8c8fa50e7f5eec1e",
+    "size": 189789
   },
   {
     "name": "YWOLF",
@@ -113,7 +113,7 @@
     "version": "1.4.56",
     "nsfw": 1,
     "hasReadme": 0,
-    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ywolf.png",
+    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.ywolf.png",
     "sources": [
       {
         "name": "YWOLF",
@@ -134,7 +134,7 @@
     "version": "1.4.47",
     "nsfw": 1,
     "hasReadme": 0,
-    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.yblacktoon.png",
+    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yblacktoon.png",
     "sources": [
       {
         "name": "YBlackToon",
@@ -155,7 +155,7 @@
     "version": "1.4.50",
     "nsfw": 1,
     "hasReadme": 0,
-    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ytoonkor.png",
+    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.ytoonkor.png",
     "sources": [
       {
         "name": "YToonkor",
