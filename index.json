@@ -2,10 +2,10 @@
   {
     "name": "Naver Webtoon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.navercomic",
-    "apk": "tachiyomi-ko.navercomic-v1.4.11.apk",
+    "apk": "tachiyomi-ko.navercomic-v1.4.100.apk",
     "lang": "ko",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 100,
+    "version": "1.4.100",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.navercomic.png",
@@ -17,17 +17,17 @@
         "baseUrl": "https://comic.naver.com"
       }
     ],
-    "sha256": "27d1dcadff7d7d5e5a0a14ce5aece8ededa348b4edf2fa7b5114decde04e2d0c",
-    "size": 225581,
-    "versionCode": 11
+    "sha256": "1b8e37796d4b2fefd54af74e2539c8affd9d5d00876299acde16cb34053f8a95",
+    "size": 225589,
+    "versionCode": 100
   },
   {
     "name": "11toon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.toon11",
-    "apk": "tachiyomi-ko.toon11-v1.4.39.apk",
+    "apk": "tachiyomi-ko.toon11-v1.4.100.apk",
     "lang": "ko",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 100,
+    "version": "1.4.100",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.toon11.png",
@@ -39,17 +39,17 @@
         "baseUrl": "https://www.11toon.com"
       }
     ],
-    "sha256": "ecdb2d7a58a85bf7f5ac89dc3924c27cf978f65b0027873deb8f8b7b123417eb",
+    "sha256": "193dc5afd4b3aebbae15695766da410333f19f7ebe4bed4647e27b8495fb8d80",
     "size": 188993,
-    "versionCode": 39
+    "versionCode": 100
   },
   {
     "name": "YJJAPTOON",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yjjaptoon",
-    "apk": "tachiyomi-ko.yjjaptoon-v1.4.47.apk",
+    "apk": "tachiyomi-ko.yjjaptoon-v1.4.100.apk",
     "lang": "ko",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 100,
+    "version": "1.4.100",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.yjjaptoon.png",
@@ -61,17 +61,17 @@
         "baseUrl": "https://www.jjaptoon006.com"
       }
     ],
-    "sha256": "717a53d27dfc2ed9f75ed9245b71a158f210d61798c3f838759a4d46be470a99",
-    "size": 189481,
-    "versionCode": 47
+    "sha256": "c7754b47072147b1eb688469da37b229e21111e05bff32b6e5fe1f367dfdd02e",
+    "size": 189489,
+    "versionCode": 100
   },
   {
     "name": "YNTK",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yntk",
-    "apk": "tachiyomi-ko.yntk-v1.4.46.apk",
+    "apk": "tachiyomi-ko.yntk-v1.4.100.apk",
     "lang": "ko",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 100,
+    "version": "1.4.100",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png",
@@ -83,17 +83,17 @@
         "baseUrl": "https://newtoki1.org/webtoon"
       }
     ],
-    "sha256": "fdd03fd930601739f01f95e3779087f881794127fc47a2d16e14a7b880a8dc4f",
+    "sha256": "ef338a43e49f8f39ff4baf62f5dc8e1dd716906900c6c929e9a9b5cbbe24ba2b",
     "size": 175073,
-    "versionCode": 46
+    "versionCode": 100
   },
   {
     "name": "YNTK (소설)",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yntknovel",
-    "apk": "tachiyomi-ko.yntknovel-v1.4.22.apk",
+    "apk": "tachiyomi-ko.yntknovel-v1.4.100.apk",
     "lang": "ko",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 100,
+    "version": "1.4.100",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.yntknovel.png",
@@ -105,17 +105,17 @@
         "baseUrl": "https://newtoki1.org/novel"
       }
     ],
-    "sha256": "c8d3642a16a90148c30121ff887bb620ddad1fe1e1944c1b6d7273c7b58fec5f",
-    "size": 175125,
-    "versionCode": 22
+    "sha256": "75ddd76fdcaa97db839fd1fa86ccbd88eca07729574ca704e6552eec0d064b19",
+    "size": 175133,
+    "versionCode": 100
   },
   {
     "name": "YWOLF",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ywolf",
-    "apk": "tachiyomi-ko.ywolf-v1.4.56.apk",
+    "apk": "tachiyomi-ko.ywolf-v1.4.100.apk",
     "lang": "ko",
-    "code": 56,
-    "version": "1.4.56",
+    "code": 100,
+    "version": "1.4.100",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ywolf.png",
@@ -127,17 +127,17 @@
         "baseUrl": "https://wfwf480.com"
       }
     ],
-    "sha256": "04375d0a4297b85091f29bb3c7c45be02dd2bb3f9e23adaaa530be0d4078f330",
-    "size": 180703,
-    "versionCode": 56
+    "sha256": "2dd37f27613ce3f5d463e9c7f97a85d3818cc0253c6e06926a0b84ff0da71e29",
+    "size": 180695,
+    "versionCode": 100
   },
   {
     "name": "YBlackToon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yblacktoon",
-    "apk": "tachiyomi-ko.yblacktoon-v1.4.47.apk",
+    "apk": "tachiyomi-ko.yblacktoon-v1.4.100.apk",
     "lang": "ko",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 100,
+    "version": "1.4.100",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.yblacktoon.png",
@@ -149,17 +149,17 @@
         "baseUrl": "https://blacktoon419.com"
       }
     ],
-    "sha256": "d00a56beacc3fb2b0406ea71994a84f06b680f2e51670abec762a7e3c644016e",
-    "size": 189193,
-    "versionCode": 47
+    "sha256": "ddeaedd74fafc417ce5cb563bc52509c8f7e1de4b4264eb2b5bce30973ad0caa",
+    "size": 189201,
+    "versionCode": 100
   },
   {
     "name": "YToonkor",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ytoonkor",
-    "apk": "tachiyomi-ko.ytoonkor-v1.4.50.apk",
+    "apk": "tachiyomi-ko.ytoonkor-v1.4.100.apk",
     "lang": "ko",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 100,
+    "version": "1.4.100",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ytoonkor.png",
@@ -171,8 +171,8 @@
         "baseUrl": "https://tkor145.com"
       }
     ],
-    "sha256": "3ced268aa2fdd2d19f85ad372668318de0fc4eab3a3ed135c3d672d23e9eaef0",
-    "size": 171585,
-    "versionCode": 50
+    "sha256": "5c4112926716f8a4e5c58f3d6fda1a9edc5e423daeed602b00a12baa6dcf361b",
+    "size": 171593,
+    "versionCode": 100
   }
 ]
