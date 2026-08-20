@@ -2,10 +2,10 @@
   {
     "name": "Naver Webtoon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.navercomic",
-    "apk": "tachiyomi-ko.navercomic-v1.4.10.apk",
+    "apk": "tachiyomi-ko.navercomic-v1.4.11.apk",
     "lang": "ko",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.navercomic.png",
@@ -17,8 +17,8 @@
         "baseUrl": "https://comic.naver.com"
       }
     ],
-    "sha256": "0c51838c01955840312968ce4b0b28ab",
-    "size": 64523
+    "sha256": "d0a2f65094b0bd56114c02759100884d",
+    "size": 217257
   },
   {
     "name": "11toon",
