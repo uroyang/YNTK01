@@ -112,10 +112,10 @@
   {
     "name": "YWOLF",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ywolf",
-    "apk": "tachiyomi-ko.ywolf-v1.4.208.apk",
+    "apk": "tachiyomi-ko.ywolf-v1.4.209.apk",
     "lang": "ko",
-    "code": 208,
-    "version": "1.4.208",
+    "code": 209,
+    "version": "1.4.209",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.ywolf.png",
@@ -127,9 +127,9 @@
         "baseUrl": "https://wfwf483.com"
       }
     ],
-    "sha256": "fced37ed1acaf1463e2525bda8cb9d1fbcab27f1799cf9b18844c7d46f1ab9d2",
-    "size": 194303,
-    "versionCode": 208
+    "sha256": "3ee4f64b27751c19e64a23fa459acdc20198467238ca60d56cd9aebe0c8bf0d9",
+    "size": 194383,
+    "versionCode": 209
   },
   {
     "name": "YBlackToon",
