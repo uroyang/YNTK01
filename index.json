@@ -156,10 +156,10 @@
   {
     "name": "YToonkor",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ytoonkor",
-    "apk": "tachiyomi-ko.ytoonkor-v1.4.207.apk",
+    "apk": "tachiyomi-ko.ytoonkor-v1.4.208.apk",
     "lang": "ko",
-    "code": 207,
-    "version": "1.4.207",
+    "code": 208,
+    "version": "1.4.208",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.ytoonkor.png",
@@ -167,12 +167,12 @@
       {
         "name": "YToonkor",
         "lang": "ko",
-        "id": "9080630411868986111",
-        "baseUrl": "https://tkor145.com"
+        "id": "7788990011223344556",
+        "baseUrl": "https://tkor146.com"
       }
     ],
-    "sha256": "62a95d61a2c1ea6302684199c53c7ea179355a6c57ed26e2a195899d53cb25dc",
-    "size": 184773,
-    "versionCode": 207
+    "sha256": "a904d248888537f89b21bebd0683c262e5ce75d56ccdaf142f23c2ce629f5786",
+    "size": 187241,
+    "versionCode": 208
   }
 ]
