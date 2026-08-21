@@ -68,10 +68,10 @@
   {
     "name": "YNTK",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yntk",
-    "apk": "tachiyomi-ko.yntk-v1.4.210.apk",
+    "apk": "tachiyomi-ko.yntk-v1.4.211.apk",
     "lang": "ko",
-    "code": 210,
-    "version": "1.4.210",
+    "code": 211,
+    "version": "1.4.211",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yntk.png",
@@ -83,9 +83,9 @@
         "baseUrl": "https://newtoki1.org"
       }
     ],
-    "sha256": "2f8eb9b55c377db9b11eddac1428a4d4d3827f21b91e7fa270be1b6a9b446821",
-    "size": 208125,
-    "versionCode": 210
+    "sha256": "6e7d663ae13461bd20b6eaed8414ac674054302daee4cf4c9d2b484bd524173d",
+    "size": 210029,
+    "versionCode": 211
   },
   {
     "name": "YNTK (소설)",
