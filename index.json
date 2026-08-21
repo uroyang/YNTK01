@@ -134,10 +134,10 @@
   {
     "name": "YBlackToon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yblacktoon",
-    "apk": "tachiyomi-ko.yblacktoon-v1.4.208.apk",
+    "apk": "tachiyomi-ko.yblacktoon-v1.4.209.apk",
     "lang": "ko",
-    "code": 208,
-    "version": "1.4.208",
+    "code": 209,
+    "version": "1.4.209",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yblacktoon.png",
@@ -149,9 +149,9 @@
         "baseUrl": "https://blacktoon420.com"
       }
     ],
-    "sha256": "aa26082873e2f313f920ca0b5ae9889449ee7160ca0eb7eb3dbea600c4b414a3",
-    "size": 202713,
-    "versionCode": 208
+    "sha256": "5e2f9d9ccc9fe4efc16a0239bb3616ea6ad7921f236913961cabc35f7a67e885",
+    "size": 203253,
+    "versionCode": 209
   },
   {
     "name": "YToonkor",
