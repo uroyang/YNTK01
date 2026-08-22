@@ -68,10 +68,10 @@
   {
     "name": "YNTK",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yntk",
-    "apk": "tachiyomi-ko.yntk-v1.4.212.apk",
+    "apk": "tachiyomi-ko.yntk-v1.4.300.apk",
     "lang": "ko",
-    "code": 212,
-    "version": "1.4.212",
+    "code": 300,
+    "version": "1.4.300",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yntk.png",
@@ -83,17 +83,17 @@
         "baseUrl": "https://newtoki1.org"
       }
     ],
-    "sha256": "129e542840b38fca4a3111e3fc244dce9c571454baa496b530b92a8649b7f6be",
+    "sha256": "cb4e29fac6c9bbf7d5b66415d38fad5f41393546b44556450f2fa1c6863b9b2e",
     "size": 213489,
-    "versionCode": 212
+    "versionCode": 300
   },
   {
     "name": "YNTK (소설)",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yntknovel",
-    "apk": "tachiyomi-ko.yntknovel-v1.4.219.apk",
+    "apk": "tachiyomi-ko.yntknovel-v1.4.300.apk",
     "lang": "ko",
-    "code": 219,
-    "version": "1.4.219",
+    "code": 300,
+    "version": "1.4.300",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yntknovel.png",
@@ -105,9 +105,9 @@
         "baseUrl": "https://newtoki1.org"
       }
     ],
-    "sha256": "248af54b3916ea2a8d5bf673f3cb34641b93cba92cee777010f5cfafc5650c75",
-    "size": 197081,
-    "versionCode": 219
+    "sha256": "a80ef97b1752eb45c0456585715bd2544b0b88c256b96ab5f2e050543e0914da",
+    "size": 197085,
+    "versionCode": 300
   },
   {
     "name": "YWOLF",
