@@ -24,10 +24,10 @@
   {
     "name": "11toon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.toon11",
-    "apk": "tachiyomi-ko.toon11-v1.4.209.apk",
+    "apk": "tachiyomi-ko.toon11-v1.4.210.apk",
     "lang": "ko",
-    "code": 209,
-    "version": "1.4.209",
+    "code": 210,
+    "version": "1.4.210",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.toon11.png",
@@ -39,9 +39,9 @@
         "baseUrl": "https://11toon.com"
       }
     ],
-    "sha256": "bc2c06fc14539407b6fede2b6c75b4a9fe036819a199a788ae9da5d9e489f31b",
-    "size": 191865,
-    "versionCode": 209
+    "sha256": "6e71acf150b2a0cb425e731e91cf9e3cf0f77495909774cae70ffc3c756a035f",
+    "size": 192065,
+    "versionCode": 210
   },
   {
     "name": "YJJAPTOON",
@@ -68,10 +68,10 @@
   {
     "name": "YNTK",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yntk",
-    "apk": "tachiyomi-ko.yntk-v1.4.219.apk",
+    "apk": "tachiyomi-ko.yntk-v1.4.210.apk",
     "lang": "ko",
-    "code": 219,
-    "version": "1.4.219",
+    "code": 210,
+    "version": "1.4.210",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yntk.png",
@@ -83,9 +83,9 @@
         "baseUrl": "https://newtoki1.org"
       }
     ],
-    "sha256": "1567c6b575ed0b21eee3380f69e5a11f3d1b949b5bf2c692ca3a24e6ae2f1fdf",
-    "size": 213109,
-    "versionCode": 219
+    "sha256": "c377445f37db5243d4c5d386dc3e34f79ff768503349f0cb15b8c7e2ec72fb1c",
+    "size": 213169,
+    "versionCode": 210
   },
   {
     "name": "YNTK (소설)",
@@ -112,10 +112,10 @@
   {
     "name": "YWOLF",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ywolf",
-    "apk": "tachiyomi-ko.ywolf-v1.4.209.apk",
+    "apk": "tachiyomi-ko.ywolf-v1.4.210.apk",
     "lang": "ko",
-    "code": 209,
-    "version": "1.4.209",
+    "code": 210,
+    "version": "1.4.210",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.ywolf.png",
@@ -127,17 +127,17 @@
         "baseUrl": "https://wfwf483.com"
       }
     ],
-    "sha256": "3ee4f64b27751c19e64a23fa459acdc20198467238ca60d56cd9aebe0c8bf0d9",
-    "size": 194383,
-    "versionCode": 209
+    "sha256": "a12cf3dc403323390f2c7b8da4e9fddf2d7b298da4fd53da5fb190530ba10049",
+    "size": 194755,
+    "versionCode": 210
   },
   {
     "name": "YBlackToon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yblacktoon",
-    "apk": "tachiyomi-ko.yblacktoon-v1.4.212.apk",
+    "apk": "tachiyomi-ko.yblacktoon-v1.4.213.apk",
     "lang": "ko",
-    "code": 212,
-    "version": "1.4.212",
+    "code": 213,
+    "version": "1.4.213",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yblacktoon.png",
@@ -149,17 +149,17 @@
         "baseUrl": "https://blacktoon420.com"
       }
     ],
-    "sha256": "ca751fb4ca51c893f87e7e881ffe30bb425c98ba3227e52c286d5b98d45b6c9e",
-    "size": 203773,
-    "versionCode": 212
+    "sha256": "e36bed04bff6caf425d5a553c3a8164bf583cbc0c43b894a316f6563c70c3134",
+    "size": 203957,
+    "versionCode": 213
   },
   {
     "name": "YToonkor",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ytoonkor",
-    "apk": "tachiyomi-ko.ytoonkor-v1.4.208.apk",
+    "apk": "tachiyomi-ko.ytoonkor-v1.4.209.apk",
     "lang": "ko",
-    "code": 208,
-    "version": "1.4.208",
+    "code": 209,
+    "version": "1.4.209",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.ytoonkor.png",
@@ -171,8 +171,8 @@
         "baseUrl": "https://tkor146.com"
       }
     ],
-    "sha256": "a904d248888537f89b21bebd0683c262e5ce75d56ccdaf142f23c2ce629f5786",
-    "size": 187241,
-    "versionCode": 208
+    "sha256": "458cbdf5cb45c37eec5ebd5224eddf076643310c9267f71c30cb2e0cdce01b43",
+    "size": 187445,
+    "versionCode": 209
   }
 ]
