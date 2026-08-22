@@ -6,7 +6,7 @@
     "lang": "ko",
     "code": 207,
     "version": "1.4.207",
-    "nsfw": 1,
+    "nsfw": 0,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.navercomic.png",
     "sources": [
@@ -28,7 +28,7 @@
     "lang": "ko",
     "code": 211,
     "version": "1.4.211",
-    "nsfw": 1,
+    "nsfw": 0,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.toon11.png",
     "sources": [
@@ -50,7 +50,7 @@
     "lang": "ko",
     "code": 210,
     "version": "1.4.210",
-    "nsfw": 1,
+    "nsfw": 0,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yjjaptoon.png",
     "sources": [
@@ -160,7 +160,7 @@
     "lang": "ko",
     "code": 210,
     "version": "1.4.210",
-    "nsfw": 1,
+    "nsfw": 0,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.ytoonkor.png",
     "sources": [
