@@ -46,10 +46,10 @@
   {
     "name": "YJJAPTOON",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yjjaptoon",
-    "apk": "tachiyomi-ko.yjjaptoon-v1.4.360.apk",
+    "apk": "tachiyomi-ko.yjjaptoon-v1.4.400.apk",
     "lang": "ko",
-    "code": 360,
-    "version": "1.4.360",
+    "code": 400,
+    "version": "1.4.400",
     "nsfw": 0,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yjjaptoon.png",
@@ -61,17 +61,17 @@
         "baseUrl": "https://www.jjaptoon006.com"
       }
     ],
-    "sha256": "2ab89a45650462dcb4d724996aa6ee8b1705b66138418cf9ed7c4597575e4687",
-    "size": 213513,
-    "versionCode": 360
+    "sha256": "5cc1196cf82227415a0eb55b67617094eec90e044f6acc692cb243b37356dc0d",
+    "size": 213509,
+    "versionCode": 400
   },
   {
     "name": "YNTK",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yntk",
-    "apk": "tachiyomi-ko.yntk-v1.4.360.apk",
+    "apk": "tachiyomi-ko.yntk-v1.4.400.apk",
     "lang": "ko",
-    "code": 360,
-    "version": "1.4.360",
+    "code": 400,
+    "version": "1.4.400",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yntk.png",
@@ -83,17 +83,17 @@
         "baseUrl": "https://newtoki1.org"
       }
     ],
-    "sha256": "e23f4db7d12022939e0f31c75424dd15a298a6805a3fa34b880ece1e86ed8966",
-    "size": 233731,
-    "versionCode": 360
+    "sha256": "4c9435b9a285f53c0f55d59d1ee1ddb651b001f3ea1f2db6e15221ba040f822a",
+    "size": 213481,
+    "versionCode": 400
   },
   {
     "name": "YNTK (소설)",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yntknovel",
-    "apk": "tachiyomi-ko.yntknovel-v1.4.360.apk",
+    "apk": "tachiyomi-ko.yntknovel-v1.4.400.apk",
     "lang": "ko",
-    "code": 360,
-    "version": "1.4.360",
+    "code": 400,
+    "version": "1.4.400",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yntknovel.png",
@@ -105,17 +105,17 @@
         "baseUrl": "https://newtoki1.org"
       }
     ],
-    "sha256": "5bff130f500267e55dc296c7f1f16ee60b794bee80073cb3747ee4ed43fa1bfc",
+    "sha256": "4eafc7a6cc3949870b2e5c777da26232e2aff45bb9a044965bc320ced47404dd",
     "size": 197081,
-    "versionCode": 360
+    "versionCode": 400
   },
   {
     "name": "YWOLF",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ywolf",
-    "apk": "tachiyomi-ko.ywolf-v1.4.360.apk",
+    "apk": "tachiyomi-ko.ywolf-v1.4.400.apk",
     "lang": "ko",
-    "code": 360,
-    "version": "1.4.360",
+    "code": 400,
+    "version": "1.4.400",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.ywolf.png",
@@ -127,17 +127,17 @@
         "baseUrl": "https://wfwf483.com"
       }
     ],
-    "sha256": "798bcbdc70e72ce10af1a892bf49bb295624510265252a50dc771a9d7653a956",
-    "size": 193603,
-    "versionCode": 360
+    "sha256": "fa93c9491e5112827029ab41ad16a9e86ccac2f7e3583ffae0aaf5fe692b82a3",
+    "size": 193679,
+    "versionCode": 400
   },
   {
     "name": "YBlackToon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yblacktoon",
-    "apk": "tachiyomi-ko.yblacktoon-v1.4.320.apk",
+    "apk": "tachiyomi-ko.yblacktoon-v1.4.400.apk",
     "lang": "ko",
-    "code": 320,
-    "version": "1.4.320",
+    "code": 400,
+    "version": "1.4.400",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yblacktoon.png",
@@ -149,17 +149,17 @@
         "baseUrl": "https://blacktoon420.com"
       }
     ],
-    "sha256": "14476dbb104f653cc9ed8cabd63dd3ace1b8cc801d86d558f65829cd570c9007",
+    "sha256": "bce2b2b6b278ed3b0a6283e7c1a1ed5444c335c7e2fe72c8c278082ace22518d",
     "size": 205021,
-    "versionCode": 320
+    "versionCode": 400
   },
   {
     "name": "YToonkor",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ytoonkor",
-    "apk": "tachiyomi-ko.ytoonkor-v1.4.360.apk",
+    "apk": "tachiyomi-ko.ytoonkor-v1.4.400.apk",
     "lang": "ko",
-    "code": 360,
-    "version": "1.4.360",
+    "code": 400,
+    "version": "1.4.400",
     "nsfw": 0,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.ytoonkor.png",
@@ -171,19 +171,19 @@
         "baseUrl": "https://tkor146.com"
       }
     ],
-    "sha256": "60b240224d7b1157b1b6e8a58f2acf03f2c5c69c3f2f047af98581cde5a04c1d",
-    "size": 189949,
-    "versionCode": 360
+    "sha256": "d2f1e5079b8655e3306baa1534906b8cef32eb5500115ee0746517aa5a5fc47d",
+    "size": 190441,
+    "versionCode": 400
   },
   {
     "name": "Manatoki",
     "pkg": "eu.kanade.tachiyomi.extension.ko.manatoki",
-    "apk": "tachiyomi-ko.manatoki-v1.4.360.apk",
+    "apk": "tachiyomi-ko.manatoki-v1.4.400.apk",
     "lang": "ko",
-    "code": 360,
-    "version": "1.4.360",
-    "sha256": "f70f03bd4e1c478b9fbb5961dab5bddea8c39ce30b2010152b264458be85c519",
-    "size": 236561,
+    "code": 400,
+    "version": "1.4.400",
+    "sha256": "df9e411f2eec3aa6dd1808663bb09a19c89cf02c7687622a55258f7a36426656",
+    "size": 236557,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -193,6 +193,7 @@
         "id": "2",
         "baseUrl": "https://manatoki450.net"
       }
-    ]
+    ],
+    "versionCode": 400
   }
 ]
