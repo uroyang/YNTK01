@@ -19,7 +19,8 @@
     ],
     "sha256": "48e34720dae0c1cd254ad97cfd3f154b041372d5db8333eced352d36d6abbb5d",
     "size": 224577,
-    "versionCode": 207
+    "versionCode": 207,
+    "hasChangelog": 0
   },
   {
     "name": "11toon",
@@ -41,7 +42,8 @@
     ],
     "sha256": "c2fcfffe79e1ae8f35f078b3ed6f89666255438c6bf814305f5d1773a3583008",
     "size": 192225,
-    "versionCode": 211
+    "versionCode": 211,
+    "hasChangelog": 0
   },
   {
     "name": "YJJAPTOON",
@@ -63,7 +65,8 @@
     ],
     "sha256": "5cc1196cf82227415a0eb55b67617094eec90e044f6acc692cb243b37356dc0d",
     "size": 213509,
-    "versionCode": 400
+    "versionCode": 400,
+    "hasChangelog": 0
   },
   {
     "name": "YNTK",
@@ -85,7 +88,8 @@
     ],
     "sha256": "4c9435b9a285f53c0f55d59d1ee1ddb651b001f3ea1f2db6e15221ba040f822a",
     "size": 213481,
-    "versionCode": 400
+    "versionCode": 400,
+    "hasChangelog": 0
   },
   {
     "name": "YNTK (소설)",
@@ -107,7 +111,8 @@
     ],
     "sha256": "4eafc7a6cc3949870b2e5c777da26232e2aff45bb9a044965bc320ced47404dd",
     "size": 197081,
-    "versionCode": 400
+    "versionCode": 400,
+    "hasChangelog": 0
   },
   {
     "name": "YWOLF",
@@ -129,7 +134,8 @@
     ],
     "sha256": "fa93c9491e5112827029ab41ad16a9e86ccac2f7e3583ffae0aaf5fe692b82a3",
     "size": 193679,
-    "versionCode": 400
+    "versionCode": 400,
+    "hasChangelog": 0
   },
   {
     "name": "YBlackToon",
@@ -151,7 +157,8 @@
     ],
     "sha256": "bce2b2b6b278ed3b0a6283e7c1a1ed5444c335c7e2fe72c8c278082ace22518d",
     "size": 205021,
-    "versionCode": 400
+    "versionCode": 400,
+    "hasChangelog": 0
   },
   {
     "name": "YToonkor",
@@ -173,7 +180,8 @@
     ],
     "sha256": "d2f1e5079b8655e3306baa1534906b8cef32eb5500115ee0746517aa5a5fc47d",
     "size": 190441,
-    "versionCode": 400
+    "versionCode": 400,
+    "hasChangelog": 0
   },
   {
     "name": "Manatoki",
@@ -194,6 +202,7 @@
         "baseUrl": "https://manatoki450.net"
       }
     ],
-    "versionCode": 400
+    "versionCode": 400,
+    "nsfw": 0
   }
 ]
