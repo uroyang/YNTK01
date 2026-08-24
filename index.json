@@ -7,8 +7,6 @@
     "code": 207,
     "version": "1.4.207",
     "nsfw": 0,
-    "hasReadme": 0,
-    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.navercomic.png",
     "sources": [
       {
         "name": "Naver Webtoon",
@@ -16,11 +14,7 @@
         "id": "1311262507446028482",
         "baseUrl": "https://comic.naver.com"
       }
-    ],
-    "sha256": "48e34720dae0c1cd254ad97cfd3f154b041372d5db8333eced352d36d6abbb5d",
-    "size": 224577,
-    "versionCode": 207,
-    "hasChangelog": 0
+    ]
   },
   {
     "name": "11toon",
@@ -30,8 +24,6 @@
     "code": 211,
     "version": "1.4.211",
     "nsfw": 0,
-    "hasReadme": 0,
-    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.toon11.png",
     "sources": [
       {
         "name": "11toon",
@@ -39,11 +31,7 @@
         "id": "1122334455667788990",
         "baseUrl": "https://11toon.com"
       }
-    ],
-    "sha256": "c2fcfffe79e1ae8f35f078b3ed6f89666255438c6bf814305f5d1773a3583008",
-    "size": 192225,
-    "versionCode": 211,
-    "hasChangelog": 0
+    ]
   },
   {
     "name": "YJJAPTOON",
@@ -53,8 +41,6 @@
     "code": 400,
     "version": "1.4.400",
     "nsfw": 0,
-    "hasReadme": 0,
-    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yjjaptoon.png",
     "sources": [
       {
         "name": "YJJAPTOON",
@@ -62,11 +48,7 @@
         "id": "6617140827432413157",
         "baseUrl": "https://www.jjaptoon006.com"
       }
-    ],
-    "sha256": "5cc1196cf82227415a0eb55b67617094eec90e044f6acc692cb243b37356dc0d",
-    "size": 213509,
-    "versionCode": 400,
-    "hasChangelog": 0
+    ]
   },
   {
     "name": "YNTK",
@@ -76,8 +58,6 @@
     "code": 400,
     "version": "1.4.400",
     "nsfw": 1,
-    "hasReadme": 0,
-    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yntk.png",
     "sources": [
       {
         "name": "YNTK",
@@ -85,11 +65,7 @@
         "id": "7156501264160978970",
         "baseUrl": "https://newtoki1.org"
       }
-    ],
-    "sha256": "4c9435b9a285f53c0f55d59d1ee1ddb651b001f3ea1f2db6e15221ba040f822a",
-    "size": 213481,
-    "versionCode": 400,
-    "hasChangelog": 0
+    ]
   },
   {
     "name": "YNTK (소설)",
@@ -99,8 +75,6 @@
     "code": 400,
     "version": "1.4.400",
     "nsfw": 1,
-    "hasReadme": 0,
-    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yntknovel.png",
     "sources": [
       {
         "name": "YNTK (소설)",
@@ -108,11 +82,7 @@
         "id": "654697159929175548",
         "baseUrl": "https://newtoki1.org"
       }
-    ],
-    "sha256": "4eafc7a6cc3949870b2e5c777da26232e2aff45bb9a044965bc320ced47404dd",
-    "size": 197081,
-    "versionCode": 400,
-    "hasChangelog": 0
+    ]
   },
   {
     "name": "YWOLF",
@@ -122,8 +92,6 @@
     "code": 400,
     "version": "1.4.400",
     "nsfw": 1,
-    "hasReadme": 0,
-    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.ywolf.png",
     "sources": [
       {
         "name": "YWOLF",
@@ -131,11 +99,7 @@
         "id": "7788990011223344556",
         "baseUrl": "https://wfwf483.com"
       }
-    ],
-    "sha256": "fa93c9491e5112827029ab41ad16a9e86ccac2f7e3583ffae0aaf5fe692b82a3",
-    "size": 193679,
-    "versionCode": 400,
-    "hasChangelog": 0
+    ]
   },
   {
     "name": "YBlackToon",
@@ -145,8 +109,6 @@
     "code": 400,
     "version": "1.4.400",
     "nsfw": 1,
-    "hasReadme": 0,
-    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yblacktoon.png",
     "sources": [
       {
         "name": "YBlackToon",
@@ -154,11 +116,7 @@
         "id": "6677889900112233445",
         "baseUrl": "https://blacktoon420.com"
       }
-    ],
-    "sha256": "bce2b2b6b278ed3b0a6283e7c1a1ed5444c335c7e2fe72c8c278082ace22518d",
-    "size": 205021,
-    "versionCode": 400,
-    "hasChangelog": 0
+    ]
   },
   {
     "name": "YToonkor",
@@ -168,8 +126,6 @@
     "code": 400,
     "version": "1.4.400",
     "nsfw": 0,
-    "hasReadme": 0,
-    "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.ytoonkor.png",
     "sources": [
       {
         "name": "YToonkor",
@@ -177,11 +133,7 @@
         "id": "7788990011223344556",
         "baseUrl": "https://tkor146.com"
       }
-    ],
-    "sha256": "d2f1e5079b8655e3306baa1534906b8cef32eb5500115ee0746517aa5a5fc47d",
-    "size": 190441,
-    "versionCode": 400,
-    "hasChangelog": 0
+    ]
   },
   {
     "name": "Manatoki",
@@ -190,10 +142,7 @@
     "lang": "ko",
     "code": 400,
     "version": "1.4.400",
-    "sha256": "df9e411f2eec3aa6dd1808663bb09a19c89cf02c7687622a55258f7a36426656",
-    "size": 236557,
-    "hasReadme": 0,
-    "hasChangelog": 0,
+    "nsfw": 0,
     "sources": [
       {
         "name": "Manatoki",
@@ -201,8 +150,6 @@
         "id": "2",
         "baseUrl": "https://manatoki450.net"
       }
-    ],
-    "versionCode": 400,
-    "nsfw": 0
+    ]
   }
 ]
