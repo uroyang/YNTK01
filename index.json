@@ -4,8 +4,8 @@
     "pkg": "eu.kanade.tachiyomi.extension.ko.navercomic",
     "apk": "tachiyomi-ko.navercomic-v1.4.207.apk",
     "lang": "ko",
-    "code": 207,
-    "version": "1.4.207",
+    "code": 500,
+    "version": "1.4.500",
     "nsfw": 0,
     "sources": [
       {
@@ -21,8 +21,8 @@
     "pkg": "eu.kanade.tachiyomi.extension.ko.toon11",
     "apk": "tachiyomi-ko.toon11-v1.4.211.apk",
     "lang": "ko",
-    "code": 211,
-    "version": "1.4.211",
+    "code": 500,
+    "version": "1.4.500",
     "nsfw": 0,
     "sources": [
       {
@@ -38,8 +38,8 @@
     "pkg": "eu.kanade.tachiyomi.extension.ko.yjjaptoon",
     "apk": "tachiyomi-ko.yjjaptoon-v1.4.400.apk",
     "lang": "ko",
-    "code": 400,
-    "version": "1.4.400",
+    "code": 500,
+    "version": "1.4.500",
     "nsfw": 0,
     "sources": [
       {
@@ -55,8 +55,8 @@
     "pkg": "eu.kanade.tachiyomi.extension.ko.yntk",
     "apk": "tachiyomi-ko.yntk-v1.4.400.apk",
     "lang": "ko",
-    "code": 400,
-    "version": "1.4.400",
+    "code": 500,
+    "version": "1.4.500",
     "nsfw": 0,
     "sources": [
       {
@@ -72,8 +72,8 @@
     "pkg": "eu.kanade.tachiyomi.extension.ko.yntknovel",
     "apk": "tachiyomi-ko.yntknovel-v1.4.400.apk",
     "lang": "ko",
-    "code": 400,
-    "version": "1.4.400",
+    "code": 500,
+    "version": "1.4.500",
     "nsfw": 0,
     "sources": [
       {
@@ -89,8 +89,8 @@
     "pkg": "eu.kanade.tachiyomi.extension.ko.ywolf",
     "apk": "tachiyomi-ko.ywolf-v1.4.400.apk",
     "lang": "ko",
-    "code": 400,
-    "version": "1.4.400",
+    "code": 500,
+    "version": "1.4.500",
     "nsfw": 0,
     "sources": [
       {
@@ -106,8 +106,8 @@
     "pkg": "eu.kanade.tachiyomi.extension.ko.yblacktoon",
     "apk": "tachiyomi-ko.yblacktoon-v1.4.400.apk",
     "lang": "ko",
-    "code": 400,
-    "version": "1.4.400",
+    "code": 500,
+    "version": "1.4.500",
     "nsfw": 0,
     "sources": [
       {
@@ -123,8 +123,8 @@
     "pkg": "eu.kanade.tachiyomi.extension.ko.ytoonkor",
     "apk": "tachiyomi-ko.ytoonkor-v1.4.400.apk",
     "lang": "ko",
-    "code": 400,
-    "version": "1.4.400",
+    "code": 500,
+    "version": "1.4.500",
     "nsfw": 0,
     "sources": [
       {
@@ -140,8 +140,8 @@
     "pkg": "eu.kanade.tachiyomi.extension.ko.manatoki",
     "apk": "tachiyomi-ko.manatoki-v1.4.400.apk",
     "lang": "ko",
-    "code": 400,
-    "version": "1.4.400",
+    "code": 500,
+    "version": "1.4.500",
     "nsfw": 0,
     "sources": [
       {
