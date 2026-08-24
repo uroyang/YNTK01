@@ -46,10 +46,10 @@
   {
     "name": "YJJAPTOON",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yjjaptoon",
-    "apk": "tachiyomi-ko.yjjaptoon-v1.4.210.apk",
+    "apk": "tachiyomi-ko.yjjaptoon-v1.4.360.apk",
     "lang": "ko",
-    "code": 210,
-    "version": "1.4.210",
+    "code": 360,
+    "version": "1.4.360",
     "nsfw": 0,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yjjaptoon.png",
@@ -61,9 +61,9 @@
         "baseUrl": "https://www.jjaptoon006.com"
       }
     ],
-    "sha256": "6d23b9184ad6b29c8f906c93e85d15a7aab4e042fcccaf6d4a5fff0bd4de4c80",
-    "size": 212021,
-    "versionCode": 210
+    "sha256": "2ab89a45650462dcb4d724996aa6ee8b1705b66138418cf9ed7c4597575e4687",
+    "size": 213513,
+    "versionCode": 360
   },
   {
     "name": "YNTK",
