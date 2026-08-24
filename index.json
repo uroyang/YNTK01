@@ -112,10 +112,10 @@
   {
     "name": "YWOLF",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ywolf",
-    "apk": "tachiyomi-ko.ywolf-v1.4.211.apk",
+    "apk": "tachiyomi-ko.ywolf-v1.4.310.apk",
     "lang": "ko",
-    "code": 211,
-    "version": "1.4.211",
+    "code": 310,
+    "version": "1.4.310",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.ywolf.png",
@@ -127,17 +127,17 @@
         "baseUrl": "https://wfwf483.com"
       }
     ],
-    "sha256": "4f980eddfba81d7df9b4078d687d3a59b3575148540d54c06d290aebf176a3de",
-    "size": 194891,
-    "versionCode": 211
+    "sha256": "8966be2240889778437c62f4a6b8aa4a02d53ebc18bbee89d0c782053987e934",
+    "size": 195627,
+    "versionCode": 310
   },
   {
     "name": "YBlackToon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yblacktoon",
-    "apk": "tachiyomi-ko.yblacktoon-v1.4.214.apk",
+    "apk": "tachiyomi-ko.yblacktoon-v1.4.310.apk",
     "lang": "ko",
-    "code": 214,
-    "version": "1.4.214",
+    "code": 310,
+    "version": "1.4.310",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.yblacktoon.png",
@@ -149,17 +149,17 @@
         "baseUrl": "https://blacktoon420.com"
       }
     ],
-    "sha256": "9e38c1d164c0818a886c0fc8313128f83ce500d477b4af8b029ff87202ec8f9d",
-    "size": 204121,
-    "versionCode": 214
+    "sha256": "d5c6548be04bad79a87370aaeec3b57b0dba17af4c9cd87763efb2daacb2cee2",
+    "size": 205021,
+    "versionCode": 310
   },
   {
     "name": "YToonkor",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ytoonkor",
-    "apk": "tachiyomi-ko.ytoonkor-v1.4.300.apk",
+    "apk": "tachiyomi-ko.ytoonkor-v1.4.310.apk",
     "lang": "ko",
-    "code": 300,
-    "version": "1.4.300",
+    "code": 310,
+    "version": "1.4.310",
     "nsfw": 0,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.ytoonkor.png",
@@ -171,8 +171,8 @@
         "baseUrl": "https://tkor146.com"
       }
     ],
-    "sha256": "a7338332b50cbe7aee68826d758ac8b706381d6cbf6a8f7194ec7d156626f562",
+    "sha256": "70a9fe5fb3f5a23019671fd81b43215f9a9c3921d4db13144bcde4b9b4edd6a5",
     "size": 189273,
-    "versionCode": 300
+    "versionCode": 310
   }
 ]
