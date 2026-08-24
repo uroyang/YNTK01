@@ -112,10 +112,10 @@
   {
     "name": "YWOLF",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ywolf",
-    "apk": "tachiyomi-ko.ywolf-v1.4.350.apk",
+    "apk": "tachiyomi-ko.ywolf-v1.4.360.apk",
     "lang": "ko",
-    "code": 350,
-    "version": "1.4.350",
+    "code": 360,
+    "version": "1.4.360",
     "nsfw": 1,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.ywolf.png",
@@ -127,9 +127,9 @@
         "baseUrl": "https://wfwf483.com"
       }
     ],
-    "sha256": "81c2b5199bfbeace5e0955a1c4c1394a8a8d6d95950b7bf365936b0f69bd855a",
-    "size": 194795,
-    "versionCode": 350
+    "sha256": "798bcbdc70e72ce10af1a892bf49bb295624510265252a50dc771a9d7653a956",
+    "size": 193603,
+    "versionCode": 360
   },
   {
     "name": "YBlackToon",
@@ -156,10 +156,10 @@
   {
     "name": "YToonkor",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ytoonkor",
-    "apk": "tachiyomi-ko.ytoonkor-v1.4.350.apk",
+    "apk": "tachiyomi-ko.ytoonkor-v1.4.360.apk",
     "lang": "ko",
-    "code": 350,
-    "version": "1.4.350",
+    "code": 360,
+    "version": "1.4.360",
     "nsfw": 0,
     "hasReadme": 0,
     "icon": "https://raw.githubusercontent.com/uroyang/YNTK01/main/icon/eu.kanade.tachiyomi.extension.ko.ytoonkor.png",
@@ -171,8 +171,8 @@
         "baseUrl": "https://tkor146.com"
       }
     ],
-    "sha256": "19699987edabfbbca0ffbb73bd640144387301e78b0d8a142778d22bd060871b",
-    "size": 191213,
-    "versionCode": 350
+    "sha256": "60b240224d7b1157b1b6e8a58f2acf03f2c5c69c3f2f047af98581cde5a04c1d",
+    "size": 189949,
+    "versionCode": 360
   }
 ]
