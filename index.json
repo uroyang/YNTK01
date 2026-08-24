@@ -6,12 +6,12 @@
     "lang": "ko",
     "code": 207,
     "version": "1.4.207",
-    "nsfw": 1,
+    "nsfw": 0,
     "sources": [
       {
         "name": "Naver Webtoon",
-        "id": "1311262507446028482",
         "lang": "ko",
+        "id": "1311262507446028482",
         "baseUrl": "https://comic.naver.com"
       }
     ]
@@ -23,12 +23,12 @@
     "lang": "ko",
     "code": 211,
     "version": "1.4.211",
-    "nsfw": 1,
+    "nsfw": 0,
     "sources": [
       {
         "name": "11toon",
-        "id": "1122334455667788990",
         "lang": "ko",
+        "id": "1122334455667788990",
         "baseUrl": "https://11toon.com"
       }
     ]
@@ -40,12 +40,12 @@
     "lang": "ko",
     "code": 400,
     "version": "1.4.400",
-    "nsfw": 1,
+    "nsfw": 0,
     "sources": [
       {
         "name": "YJJAPTOON",
-        "id": "1234567890123456789",
         "lang": "ko",
+        "id": "1234567890123456789",
         "baseUrl": "https://www.jjaptoon006.com"
       }
     ]
@@ -57,12 +57,12 @@
     "lang": "ko",
     "code": 400,
     "version": "1.4.400",
-    "nsfw": 1,
+    "nsfw": 0,
     "sources": [
       {
         "name": "YNTK",
-        "id": "8899001122334455667",
         "lang": "ko",
+        "id": "8899001122334455667",
         "baseUrl": "https://newtoki1.org"
       }
     ]
@@ -74,12 +74,12 @@
     "lang": "ko",
     "code": 400,
     "version": "1.4.400",
-    "nsfw": 1,
+    "nsfw": 0,
     "sources": [
       {
         "name": "YNTK (소설)",
-        "id": "9900112233445566778",
         "lang": "ko",
+        "id": "9900112233445566778",
         "baseUrl": "https://booktoki1.org"
       }
     ]
@@ -91,12 +91,12 @@
     "lang": "ko",
     "code": 400,
     "version": "1.4.400",
-    "nsfw": 1,
+    "nsfw": 0,
     "sources": [
       {
         "name": "YWOLF",
-        "id": "7788990011223344556",
         "lang": "ko",
+        "id": "7788990011223344556",
         "baseUrl": "https://wfwf483.com"
       }
     ]
@@ -108,12 +108,12 @@
     "lang": "ko",
     "code": 400,
     "version": "1.4.400",
-    "nsfw": 1,
+    "nsfw": 0,
     "sources": [
       {
         "name": "YBlackToon",
-        "id": "6677889900112233445",
         "lang": "ko",
+        "id": "6677889900112233445",
         "baseUrl": "https://blacktoon420.com"
       }
     ]
@@ -125,12 +125,12 @@
     "lang": "ko",
     "code": 400,
     "version": "1.4.400",
-    "nsfw": 1,
+    "nsfw": 0,
     "sources": [
       {
         "name": "YToonkor",
-        "id": "7788990011223344556",
         "lang": "ko",
+        "id": "7788990011223344556",
         "baseUrl": "https://tkor146.com"
       }
     ]
@@ -142,12 +142,12 @@
     "lang": "ko",
     "code": 400,
     "version": "1.4.400",
-    "nsfw": 1,
+    "nsfw": 0,
     "sources": [
       {
         "name": "Manatoki",
-        "id": "2",
         "lang": "ko",
+        "id": "2",
         "baseUrl": "https://manatoki450.net"
       }
     ]

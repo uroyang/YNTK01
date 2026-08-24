@@ -1,8 +1,1 @@
-{
-  "index_v2": "https://raw.githubusercontent.com/uroyang/YNTK01/main/index.min.json",
-  "meta": {
-    "name": "YNTK Repository",
-    "website": "https://github.com/uroyang/YNTK01",
-    "signingKeyFingerprint": "0b22119f3f5c2c89fc5da0291903a65f1d61005ec7d63e9ffbcfcd4c8023864a"
-  }
-}
+{"meta":{"name":"YNTK Repository","website":"https://github.com/uroyang/YNTK01","signingKeyFingerprint":"0b22119f3f5c2c89fc5da0291903a65f1d61005ec7d63e9ffbcfcd4c8023864a"}}
