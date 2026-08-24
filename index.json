@@ -3,15 +3,15 @@
     "name": "Naver Webtoon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.navercomic",
     "apk": "tachiyomi-ko.navercomic-v1.4.207.apk",
-    "lang": "ko",
+    "lang": "all",
     "code": 400,
     "version": "1.4.400",
     "nsfw": 0,
     "sources": [
       {
         "name": "Naver Webtoon",
-        "lang": "ko",
         "id": "1311262507446028482",
+        "lang": "all",
         "baseUrl": "https://comic.naver.com"
       }
     ]
@@ -20,15 +20,15 @@
     "name": "11toon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.toon11",
     "apk": "tachiyomi-ko.toon11-v1.4.211.apk",
-    "lang": "ko",
+    "lang": "all",
     "code": 400,
     "version": "1.4.400",
     "nsfw": 0,
     "sources": [
       {
         "name": "11toon",
-        "lang": "ko",
         "id": "1122334455667788990",
+        "lang": "all",
         "baseUrl": "https://11toon.com"
       }
     ]
@@ -37,15 +37,15 @@
     "name": "YJJAPTOON",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yjjaptoon",
     "apk": "tachiyomi-ko.yjjaptoon-v1.4.400.apk",
-    "lang": "ko",
+    "lang": "all",
     "code": 400,
     "version": "1.4.400",
     "nsfw": 0,
     "sources": [
       {
         "name": "YJJAPTOON",
-        "lang": "ko",
         "id": "1234567890123456789",
+        "lang": "all",
         "baseUrl": "https://www.jjaptoon006.com"
       }
     ]
@@ -54,15 +54,15 @@
     "name": "YNTK",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yntk",
     "apk": "tachiyomi-ko.yntk-v1.4.400.apk",
-    "lang": "ko",
+    "lang": "all",
     "code": 400,
     "version": "1.4.400",
     "nsfw": 0,
     "sources": [
       {
         "name": "YNTK",
-        "lang": "ko",
         "id": "8899001122334455667",
+        "lang": "all",
         "baseUrl": "https://newtoki1.org"
       }
     ]
@@ -71,15 +71,15 @@
     "name": "YNTK (소설)",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yntknovel",
     "apk": "tachiyomi-ko.yntknovel-v1.4.400.apk",
-    "lang": "ko",
+    "lang": "all",
     "code": 400,
     "version": "1.4.400",
     "nsfw": 0,
     "sources": [
       {
         "name": "YNTK (소설)",
-        "lang": "ko",
         "id": "9900112233445566778",
+        "lang": "all",
         "baseUrl": "https://booktoki1.org"
       }
     ]
@@ -88,15 +88,15 @@
     "name": "YWOLF",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ywolf",
     "apk": "tachiyomi-ko.ywolf-v1.4.400.apk",
-    "lang": "ko",
+    "lang": "all",
     "code": 400,
     "version": "1.4.400",
     "nsfw": 0,
     "sources": [
       {
         "name": "YWOLF",
-        "lang": "ko",
         "id": "7788990011223344556",
+        "lang": "all",
         "baseUrl": "https://wfwf483.com"
       }
     ]
@@ -105,15 +105,15 @@
     "name": "YBlackToon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.yblacktoon",
     "apk": "tachiyomi-ko.yblacktoon-v1.4.400.apk",
-    "lang": "ko",
+    "lang": "all",
     "code": 400,
     "version": "1.4.400",
     "nsfw": 0,
     "sources": [
       {
         "name": "YBlackToon",
-        "lang": "ko",
         "id": "6677889900112233445",
+        "lang": "all",
         "baseUrl": "https://blacktoon420.com"
       }
     ]
@@ -122,15 +122,15 @@
     "name": "YToonkor",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ytoonkor",
     "apk": "tachiyomi-ko.ytoonkor-v1.4.400.apk",
-    "lang": "ko",
+    "lang": "all",
     "code": 400,
     "version": "1.4.400",
     "nsfw": 0,
     "sources": [
       {
         "name": "YToonkor",
-        "lang": "ko",
         "id": "7788990011223344556",
+        "lang": "all",
         "baseUrl": "https://tkor146.com"
       }
     ]
@@ -139,15 +139,15 @@
     "name": "Manatoki",
     "pkg": "eu.kanade.tachiyomi.extension.ko.manatoki",
     "apk": "tachiyomi-ko.manatoki-v1.4.400.apk",
-    "lang": "ko",
+    "lang": "all",
     "code": 400,
     "version": "1.4.400",
     "nsfw": 0,
     "sources": [
       {
         "name": "Manatoki",
-        "lang": "ko",
         "id": "2",
+        "lang": "all",
         "baseUrl": "https://manatoki450.net"
       }
     ]
