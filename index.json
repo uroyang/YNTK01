@@ -4,8 +4,8 @@
     "pkg": "eu.kanade.tachiyomi.extension.ko.navercomic",
     "apk": "tachiyomi-ko.navercomic-v1.4.207.apk",
     "lang": "ko",
-    "code": 400,
-    "version": "1.4.400",
+    "code": 207,
+    "version": "1.4.207",
     "nsfw": 0,
     "sources": [
       {
@@ -21,8 +21,8 @@
     "pkg": "eu.kanade.tachiyomi.extension.ko.toon11",
     "apk": "tachiyomi-ko.toon11-v1.4.211.apk",
     "lang": "ko",
-    "code": 400,
-    "version": "1.4.400",
+    "code": 211,
+    "version": "1.4.211",
     "nsfw": 0,
     "sources": [
       {
