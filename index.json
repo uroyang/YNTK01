@@ -11,7 +11,7 @@
       {
         "name": "Naver Webtoon",
         "lang": "ko",
-        "id": 1311262507446028482,
+        "id": "1311262507446028482",
         "baseUrl": "https://comic.naver.com"
       }
     ]
@@ -28,7 +28,7 @@
       {
         "name": "11toon",
         "lang": "ko",
-        "id": 1122334455667788990,
+        "id": "1122334455667788990",
         "baseUrl": "https://11toon.com"
       }
     ]
@@ -45,7 +45,7 @@
       {
         "name": "YJJAPTOON",
         "lang": "ko",
-        "id": 1234567890123456789,
+        "id": "1234567890123456789",
         "baseUrl": "https://www.jjaptoon006.com"
       }
     ]
@@ -62,7 +62,7 @@
       {
         "name": "YNTK",
         "lang": "ko",
-        "id": 8899001122334455667,
+        "id": "8899001122334455667",
         "baseUrl": "https://newtoki1.org"
       }
     ]
@@ -79,7 +79,7 @@
       {
         "name": "YNTK (소설)",
         "lang": "ko",
-        "id": 9900112233445566778,
+        "id": "9900112233445566778",
         "baseUrl": "https://booktoki1.org"
       }
     ]
@@ -96,7 +96,7 @@
       {
         "name": "YWOLF",
         "lang": "ko",
-        "id": 7788990011223344556,
+        "id": "7788990011223344556",
         "baseUrl": "https://wfwf483.com"
       }
     ]
@@ -113,7 +113,7 @@
       {
         "name": "YBlackToon",
         "lang": "ko",
-        "id": 6677889900112233445,
+        "id": "6677889900112233445",
         "baseUrl": "https://blacktoon420.com"
       }
     ]
@@ -130,7 +130,7 @@
       {
         "name": "YToonkor",
         "lang": "ko",
-        "id": 7788990011223344556,
+        "id": "7788990011223344556",
         "baseUrl": "https://tkor146.com"
       }
     ]
@@ -147,7 +147,7 @@
       {
         "name": "Manatoki",
         "lang": "ko",
-        "id": 2,
+        "id": "2",
         "baseUrl": "https://manatoki450.net"
       }
     ]
